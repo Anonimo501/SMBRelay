@@ -56,6 +56,6 @@ Ejecute esta herramienta sólo cuando tenga permiso para hacerlo. Este script es
 
 script original: https://github.com/Anonimo501/SambaRelay
 
-## Mejorado por 
+## Actualizdo por: 
 
 https://github.com/m4lal0
