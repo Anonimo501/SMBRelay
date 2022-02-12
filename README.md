@@ -25,7 +25,7 @@ Para ejecutar la herramienta solo es necesario ejecutarlo de la siguiente manera
 ./smbrelay.sh
 
 
-IMAGENNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNn
+![1smbrelay](https://user-images.githubusercontent.com/67207446/153726632-a9e3b901-db24-4d02-98db-28eb4a635733.png)
 
 
 La herramienta ejecutará la terminal Terminator con 4 divisiones.
