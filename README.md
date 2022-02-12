@@ -51,3 +51,11 @@ Para poder actualizar la herramienta es necesario ejecutarla con el parámetro -
 ## NOTA
 
 Ejecute esta herramienta sólo cuando tenga permiso para hacerlo. Este script es creado para fines educativos o para hacer auditorias profesionales de pentesting a nivel empresarial.
+
+## Creado por:
+
+Anonimo501
+
+script original: https://github.com/Anonimo501/SambaRelay
+
+## Mejorado por https://github.com/m4lal0
