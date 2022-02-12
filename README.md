@@ -39,7 +39,8 @@ Abajo a la izquierda : Lanzamiento de la Reverse Shell.
 Abajo a la derecha : Lanzamiento del script Nishang al equipo victima.
 
 
-IMAGENNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNn
+![2smbrelay](https://user-images.githubusercontent.com/67207446/153726703-b60d6c69-45f2-471f-b9c8-65ae416e9e2b.png)
+
 
 ## Actualizar la herramienta
 
