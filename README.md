@@ -12,7 +12,7 @@ SMBRelay crea y entrega la carga útil aprovechando la herramienta Nishang.
 
 ## Instalación
 
-git clone https://github.com/m4lal0/smbrelay
+git clone https://github.com/Anonimo501/SMBRelay.git
 cd smbrelay; chmod +x smbrelay.sh
 ./smbrelay.sh --install
 
