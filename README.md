@@ -13,7 +13,9 @@ SMBRelay crea y entrega la carga útil aprovechando la herramienta Nishang.
 ## Instalación
 
 git clone https://github.com/Anonimo501/SMBRelay.git
+
 cd smbrelay; chmod +x smbrelay.sh
+
 ./smbrelay.sh --install
 
 Al ejecutarlo realizará la instalación de las dependencias y configura la terminal Terminator para su uso correcto. El script de instalación funciona con administradores de paquetes apt (Debian).
